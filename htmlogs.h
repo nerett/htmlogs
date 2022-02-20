@@ -8,6 +8,7 @@
 #include <string.h>
 
 
+/*--------------------------STRUCT--------------------------------------------*/
 struct HTMLog
 {
 	char* log_filename = NULL;
